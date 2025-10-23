@@ -1,2 +1,4 @@
-# TalTech_DataAnalitics_C25262_TPI_Pre-Entrega__Martin_Fernandez_Gamen
-Repositorio para Entegas TPI de la comisión 25262 de Data Analitics de Martín Federico Fernández Gamen
+## Talento Tech - Data Analitics - Comisión 25262 - TPI _ Pre-Entrega
+Repositorio del Alumno: Martín Federico Fernández Gamen
+
+Profesora: Estoy haciendo aquí mi commit inicial, seguiré subiendo cambios hasta el domingo 26/10 inclusive tal y como se conversó en clase. También iré actualizando este README.md conforme tenga novedades subidas. Muchas Gracias
